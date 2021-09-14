@@ -9,12 +9,9 @@ body {
   margin: 10vh 0 0 20vw;
 }
 input {
-  margin: 2vh 0;
+  margin: 2vh;
 }
 
 .row {
   flex-direction: row;
-}
-.column {
-  flex-direction: column;
 }
